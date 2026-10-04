@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "mc-drove",
+  "version": "1.0.0",
+  "name": "mc-drove",
+  "description": "A drone mod for Minecraft",
+  "authors": [
+    "CrazyMan2_AI"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/mc-drove/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.drove.DroveMod"
+    ]
+  },
+  "custom": {}
+}
